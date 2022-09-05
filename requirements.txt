@@ -1,0 +1,7 @@
+spacy==3.1.4
+crosslingual_coreference
+metric4coref
+stanfordcorenlp
+nltk
+spacy_conll
+apted
