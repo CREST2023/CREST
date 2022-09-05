@@ -4,7 +4,7 @@ This repository is the project for paper-1587 **Crest: Testing Coreference Resol
   Inputs**
 
 ## Workflow
-![workflow](https://github.com/CREST2023/CREST/Figure/framework2.pdf)
+![workflow](./Figure/framework.png)
 
 
 ## Reproductibility
