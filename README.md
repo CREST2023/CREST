@@ -8,11 +8,15 @@ This repository is the project for paper-1587 **Crest: Testing Coreference Resol
 
 
 ## Reproductibility
-See [codebook/EasyReproduce.ipynb]('https://github.com/CREST2023/CREST/codebook/EasyReproduce.ipynb') for easy reproduction of pipeline of CREST and other baselines
+See [codebook/EasyReproduce.ipynb](./codebook/EasyReproduce.ipynb) for easy reproduction of pipeline of CREST and other baselines
 
-See [codebook/Visualization.ipynb]('https://github.com/CREST2023/CREST/codebook/Visualization.ipynb') for visualizing all experiment figures in the paper
+See [codebook/Visualization.ipynb](./codebook/Visualization.ipynb) for visualizing all experiment figures in the paper
 
-TL;DR
+
+**TL;DR**
+
+
+
 
 ## Data Available
 The repository mainly consists of the following content:
